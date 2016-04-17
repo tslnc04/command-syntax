@@ -11,7 +11,7 @@
         'end': '$'
     }
     {
-        'name': 'variable.other'
+        'name': 'constant.language'
         'match': '\\@[apre]'
     }
     {
