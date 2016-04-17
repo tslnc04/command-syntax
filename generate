@@ -29,3 +29,12 @@ matches = [
     "minecraft:luck",
     "minecraft:unluck"
 ]
+
+for match in matches:
+    match = match.split(":")
+    output = """
+{
+    'name': 'keyword.other'
+    'match': ''
+}
+"""
