@@ -11,7 +11,7 @@
     'end': '$'
   }
   {
-    'name': 'variable.langauge'
+    'name': 'keyword.other'
     'match': 'say'
   }
 ]
