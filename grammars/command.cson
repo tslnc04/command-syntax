@@ -19,8 +19,12 @@
         'match': '[0-9][bsf]'
     }
     {
-        'name': 'string.quoted.other'
+        'name': 'string.quoted.double'
         'match': '\\".*?\\"'
+    }
+    {
+        'name': 'string.quoted.other'
+        'match': '\\{.*?\\}'
     }
     {
         'name': 'variable.other'
