@@ -15,6 +15,10 @@
         'end': '$'
     }
     {
+        'name': 'string.other'
+        'match': 'true|false'
+    }
+    {
         'name': 'constant.language'
         'match': '\\@[apre](\\[.*?\\])?'
     }
