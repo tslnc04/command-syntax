@@ -19,10 +19,6 @@
         'match': '\\".*?\\"'
     }
     {
-        'name': 'string'
-        'match': '\\{.*?\\}'
-    }
-    {
         'name': 'markup.bold'
         'match': '[0-9][bsf]?'
     }
