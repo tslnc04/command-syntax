@@ -86,5 +86,41 @@
         'name': 'keyword.other'
         'match': 'gamerule'
     }
+    {
+        'name': 'keyword.other'
+        'match': 'give'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'help'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'kick'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'kill'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'list'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'me'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'op'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'pardon'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'pardon-ip'
+    }
 ]
 'scopeName': 'source.command'
