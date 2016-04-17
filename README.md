@@ -1,2 +1,2 @@
 # command-syntax
-A command block syntax highlighter for Atom (atom.io)
+This package provides a syntax for Minecraft™ commands blocks, allowing you to do your command work directly in Atom.
