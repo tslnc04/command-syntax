@@ -31,255 +31,255 @@
         'match': '[\\!\\^\\&\\,\\:\\;\\%\\/\\*\\-\\+\\~\\=]'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'achievement'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'ban'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'ban-ip'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'banlist'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'blockdata'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'clear'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'clone'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'debug'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'defaultgamemode'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'deop'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'difficulty'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'effect'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'enchant'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'entitydata'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'execute'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'fill'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'gamemode'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'gamerule'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'give'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'help'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'kick'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'kill'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'list'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'me'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'op'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'pardon'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'pardon-ip'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'particle'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'playsound'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'replaceitem'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'save-all'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'save-on'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'save-off'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'say'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'scoreboard'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'seed'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'setblock'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'setidletimeout'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'setworldspawn'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'spawnpoint'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'spreadplayers'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'stats'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'stop'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'summon'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'tell'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'tellraw'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'testfor'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'testforblock'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'testforblocks'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'time'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'title'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'toggledownfall'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'tp'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'trigger'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'weather'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'whitelist'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'worldborder'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'xp'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'players'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'set'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'add'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'tag'
     }
     {
-        'name': 'keyword.other'
+        'name': 'support.function'
         'match': 'remove'
     }
 ]
