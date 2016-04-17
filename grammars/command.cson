@@ -12,11 +12,7 @@
     }
     {
         'name': 'constant.language'
-        'match': '\\@[apre]'
-    }
-    {
-        'name': 'constant.language'
-        'begin': '\\@[apre]\\['
+        'begin': '\\@[apre]\\[?'
         'end': '\\]'
     }
     {
