@@ -46,7 +46,7 @@ execute @e[type=Item,score_CPXCCraft_min=13,score_CPXCCraft=13] ~ ~ ~ execute @e
 
 execute @e[type=Item,score_CPXCCraft_min=11,score_CPXCCraft=11] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=12,score_CPXCCraft=12,r=1] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=15,score_CPXCCraft=15,r=1] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=16,score_CPXCCraft=16,r=1] ~ ~ ~ summon Item ~ ~3 ~ {Item:{id:"minecraft:dye",Damage:11s,Count:1b,tag:{display:{Name:"Yellow Heart Canister",Lore:["Put in your inventory", "for extra hearts"]},ench:[],HideFlages:63b,yellow_heart_canister:1b}}}
 
-execute @e[type=Item,score_CPXCCraft_min=11,score_CPXCCraft=11] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=12,score_CPXCCraft=12,r=1] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=15,score_CPXCCraft=15,r=1] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=16,score_CPXCCraft=16,r=1] ~ ~ ~ kill @e[score_CPXCCraft_min=11,score_CPXCCraft=16,r=2]
+execute @e[type=Item,score_CPXCCraft_min=11,score_CPXCCraft=11] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=12,score_CPXCCraft=12,r=1] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=15,score_CPXCCraft=15,r=1] ~ ~ ~ kill @e[score_CPXCCraft_min=11,score_CPXCCraft=15,r=2]
 
 scoreboard players tag @a add CPXCRedCanisterOne {Inventory:[{id:"minecraft:dye",Damage:1s,Count:1b,tag:{red_heart_canister:1b}}]}
 scoreboard players tag @a add CPXCRedCanisterTwo {Inventory:[{id:"minecraft:dye",Damage:1s,Count:2b,tag:{red_heart_canister:1b}}]}
