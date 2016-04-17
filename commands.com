@@ -1,3 +1,7 @@
+#################
+#### EXAMPLE ####
+#################
+
 # ---= INIT =--- #
 scoreboard objectives add CPXCCraft dummy
 
