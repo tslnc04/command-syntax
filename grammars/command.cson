@@ -10,5 +10,9 @@
     'begin': '#'
     'end': '$'
   }
+  {
+    'name': 'variable.langauge'
+    'match': 'say'
+  }
 ]
 'scopeName': 'source.command'
