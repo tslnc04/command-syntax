@@ -23,7 +23,7 @@
         'match': '\\".*?\\"'
     }
     {
-        'name': 'string.quoted.other'
+        'name': 'string'
         'match': '\\{.*?\\}'
     }
     {
