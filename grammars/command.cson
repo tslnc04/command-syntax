@@ -15,7 +15,7 @@
         'match': '\\@[apre](\\[.*?\\])?'
     }
     {
-        'name': 'keyword.other'
+        'name': 'keyword.operator'
         'match': '[0-9][bsf]'
     }
     {
