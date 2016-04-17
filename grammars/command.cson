@@ -34,5 +34,57 @@
         'name': 'keyword.other'
         'match': 'blockdata'
     }
+    {
+        'name': 'keyword.other'
+        'match': 'clear'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'clone'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'debug'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'defaultgamemode'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'deop'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'difficulty'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'effect'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'enchant'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'entitydata'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'execute'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'fill'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'gamemode'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'gamerule'
+    }
 ]
 'scopeName': 'source.command'
