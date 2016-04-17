@@ -1,18 +1,22 @@
 'fileTypes': [
-  'comm'
-  'com'
-  'command'
+    'comm'
+    'com'
+    'command'
 ]
 'name': 'Command'
 'patterns': [
-  {
-    'name': 'comment.line.number-sign'
-    'begin': '#'
-    'end': '$'
-  }
-  {
-    'name': 'keyword.other'
-    'match': 'say'
-  }
+    {
+        'name': 'comment.line.number-sign'
+        'begin': '#'
+        'end': '$'
+    }
+    {
+        'name': 'keyword.operator'
+        'match': '[\\*+-=~]'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'say'
+    }
 ]
 'scopeName': 'source.command'
