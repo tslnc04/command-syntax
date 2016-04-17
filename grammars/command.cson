@@ -11,8 +11,8 @@
         'end': '$'
     }
     {
-        'name': 'keyword.operator'
-        'match': '[/*+=-~]'
+        'name': 'variable.other'
+        'match': '/'
     }
     {
         'name': 'keyword.other'
