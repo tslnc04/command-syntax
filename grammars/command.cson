@@ -16,7 +16,23 @@
     }
     {
         'name': 'keyword.other'
-        'match': 'say'
+        'match': 'achievement'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'ban'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'ban-ip'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'banlist'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'blockdata'
     }
 ]
 'scopeName': 'source.command'
