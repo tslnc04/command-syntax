@@ -15,16 +15,16 @@
         'match': '\\@[apre](\\[.*?\\])?'
     }
     {
-        'name': 'markup.bold'
-        'match': '[0-9][bsf]'
-    }
-    {
         'name': 'string.quoted.double'
         'match': '\\".*?\\"'
     }
     {
         'name': 'string'
         'match': '\\{.*?\\}'
+    }
+    {
+        'name': 'markup.bold'
+        'match': '[0-9][bsf]?'
     }
     {
         'name': 'variable.other'
