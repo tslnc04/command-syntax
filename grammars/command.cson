@@ -282,113 +282,113 @@
         'name': 'support.function'
         'match': 'remove'
     }
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?speed'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?slowness'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?haste'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?mining_fatigue'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?strength'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?instant_health'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?instant_damage'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?jump_boost'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?nausea'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?regeneration'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?resistance'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?fire_resistance'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?water_breathing'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?invisibility'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?blindness'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?night_vision'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?hunger'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?weakness'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?poison'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?wither'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?health_boost'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?absorption'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?saturation'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?glowing'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?levitation'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?luck'
-}
-{
-    'name': 'keyword.other'
-    'match': 'minecraft\\:?unluck'
-}
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?speed'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?slowness'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?haste'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?mining_fatigue'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?strength'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?instant_health'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?instant_damage'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?jump_boost'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?nausea'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?regeneration'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?resistance'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?fire_resistance'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?water_breathing'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?invisibility'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?blindness'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?night_vision'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?hunger'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?weakness'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?poison'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?wither'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?health_boost'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?absorption'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?saturation'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?glowing'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?levitation'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?luck'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'minecraft\\:?unluck'
+    }
 ]
 'scopeName': 'source.command'
