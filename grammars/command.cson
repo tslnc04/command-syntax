@@ -6,6 +6,10 @@
 'name': 'Command'
 'patterns': [
     {
+        'name': 'support.function'
+        'match': 'hello'
+    }
+    {
         'name': 'comment.line.number-sign'
         'begin': '#'
         'end': '$'
@@ -273,6 +277,10 @@
     {
         'name': 'keyword.other'
         'match': 'tag'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'remove'
     }
 ]
 'scopeName': 'source.command'
