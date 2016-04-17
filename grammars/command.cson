@@ -12,7 +12,8 @@
     }
     {
         'name': 'constant.language'
-        'match': '\\@[apre]'
+        'begin': '\\@[apre]\\['
+        'end': '\\]'
     }
     {
         'name': 'variable.other'
