@@ -267,23 +267,23 @@
         'match': 'xp'
     }
     {
-        'name': 'support.function'
+        'name': 'keyword.other'
         'match': 'players'
     }
     {
-        'name': 'support.function'
+        'name': 'keyword.other'
         'match': 'set'
     }
     {
-        'name': 'support.function'
+        'name': 'keyword.other'
         'match': 'add'
     }
     {
-        'name': 'support.function'
+        'name': 'keyword.other'
         'match': 'tag'
     }
     {
-        'name': 'support.function'
+        'name': 'keyword.other'
         'match': 'remove'
     }
     {
