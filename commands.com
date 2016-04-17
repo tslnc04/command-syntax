@@ -1,3 +1,3 @@
 /execute @e ~ ~ ~ say hello
-/kick @a
+/kick @a[type=Player]
 # This is a comment
