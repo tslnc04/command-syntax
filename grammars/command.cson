@@ -186,5 +186,45 @@
         'name': 'keyword.other'
         'match': 'stop'
     }
+    {
+        'name': 'keyword.other'
+        'match': 'summon'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'tell'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'tellraw'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'testfor'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'testforblock'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'testforblocks'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'time'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'title'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'toggledownfall'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'pardon-ip'
+    }
 ]
 'scopeName': 'source.command'
