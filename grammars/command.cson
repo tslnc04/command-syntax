@@ -12,7 +12,31 @@
     }
     {
         'name': 'variable.other'
-        'match': '/'
+        'match': '\\/'
+    }
+    {
+        'name': 'variable.other'
+        'match': '\\='
+    }
+    {
+        'name': 'variable.other'
+        'match': '\\-'
+    }
+    {
+        'name': 'variable.other'
+        'match': '\\+'
+    }
+    {
+        'name': 'variable.other'
+        'match': '\\*'
+    }
+    {
+        'name': 'variable.other'
+        'match': '\\~'
+    }
+    {
+        'name': 'variable.other'
+        'match': '\\@[apre]'
     }
     {
         'name': 'keyword.other'
