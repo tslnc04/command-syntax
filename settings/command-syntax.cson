@@ -1,2 +1,4 @@
 '.source.json':
   '.editor':
+    'commentStart': '/*'
+    'commentEnd': '*/'
