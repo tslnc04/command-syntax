@@ -15,6 +15,10 @@
         'match': '\\@[apre](\\[.*?\\])?'
     }
     {
+        'name': 'constant.numeric'
+        'match': '\d[bsf]'
+    }
+    {
         'name': 'variable.other'
         'match': '[\\!\\^\\&\\,\\:\\;\\%\\/\\*\\-\\+\\~\\=]'
     }
