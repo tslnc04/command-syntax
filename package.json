@@ -1,0 +1,17 @@
+{
+  "name": "command-syntax",
+  "version": "0.0.0",
+  "description": "Minecraft™ Command Block Syntax",
+  "homepage": "http://coderpythonx.surge.sh/command-syntax",
+  "engines": {
+    "atom": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tslnc04/command-syntax.git"
+  },
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/tslnc04/command-syntax/issues"
+  }
+}
