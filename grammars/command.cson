@@ -262,5 +262,21 @@
         'name': 'keyword.other'
         'match': 'xp'
     }
+    {
+        'name': 'keyword.other'
+        'match': 'players'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'set'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'add'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'tag'
+    }
 ]
 'scopeName': 'source.command'
