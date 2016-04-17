@@ -61,17 +61,17 @@ scoreboard players tag @a add CPXCYellowCanisterThree {Inventory:[{id:"minecraft
 scoreboard players tag @a add CPXCYellowCanisterFour {Inventory:[{id:"minecraft:dye",Damage:11s,Count:4b,tag:{yellow_heart_canister:1b}}]}
 scoreboard players tag @a add CPXCYellowCanisterFive {Inventory:[{id:"minecraft:dye",Damage:11s,Count:5b,tag:{yellow_heart_canister:1b}}]}
 
-effect @a[tag=CPXCRedCanisterOne] minecraft:health_boost 1 0 true
-effect @a[tag=CPXCRedCanisterTwo] minecraft:health_boost 1 1 true
-effect @a[tag=CPXCRedCanisterThree] minecraft:health_boost 1 2 true
-effect @a[tag=CPXCRedCanisterFour] minecraft:health_boost 1 3 true
-effect @a[tag=CPXCRedCanisterFive] minecraft:health_boost 1 4 true
+effect @a[tag=CPXCRedCanisterOne] minecraft:absorption 1 0 true
+effect @a[tag=CPXCRedCanisterTwo] minecraft:absorption 1 1 true
+effect @a[tag=CPXCRedCanisterThree] minecraft:absorption 1 2 true
+effect @a[tag=CPXCRedCanisterFour] minecraft:absorption 1 3 true
+effect @a[tag=CPXCRedCanisterFive] minecraft:absorption 1 4 true
 
-effect @a[tag=CPXCYellowCanisterOne] minecraft:absorption 1 0 true
-effect @a[tag=CPXCYellowCanisterTwo] minecraft:absorption 1 1 true
-effect @a[tag=CPXCYellowCanisterThree] minecraft:absorption 1 2 true
-effect @a[tag=CPXCYellowCanisterFour] minecraft:absorption 1 3 true
-effect @a[tag=CPXCYellowCanisterFive] minecraft:absorption 1 4 true
+effect @a[tag=CPXCYellowCanisterOne] minecraft:absorption 1 5 true
+effect @a[tag=CPXCYellowCanisterTwo] minecraft:absorption 1 6 true
+effect @a[tag=CPXCYellowCanisterThree] minecraft:absorption 1 7 true
+effect @a[tag=CPXCYellowCanisterFour] minecraft:absorption 1 8 true
+effect @a[tag=CPXCYellowCanisterFive] minecraft:absorption 1 9 true
 
 scoreboard players tag @a remove CPXCRedCanisterOne
 scoreboard players tag @a remove CPXCRedCanisterTwo
