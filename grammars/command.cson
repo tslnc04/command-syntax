@@ -15,8 +15,8 @@
         'match': '\\@[apre](\\[.*?\\])?'
     }
     {
-        'name': 'constant.numeric'
-        'match': '\d[bsf]'
+        'name': 'keyword.other'
+        'match': '[0-9][bsf]'
     }
     {
         'name': 'variable.other'
