@@ -35,6 +35,7 @@ for match in matches:
     output = """
 {
     'name': 'keyword.other'
-    'match': ''
+    'match': '{}\\:?{}'
 }
-"""
+""".format(match[0], match[1])
+    print(output)
