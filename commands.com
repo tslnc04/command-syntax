@@ -22,8 +22,7 @@ scoreboard players set @e[type=Item] CPXCCraft 11 {Item:{id:"minecraft:golden_ap
 scoreboard players set @e[type=Item] CPXCCraft 12 {Item:{id:"minecraft:dye",Damage:1s,Count:1b,tag:{red_heart_canister:1b}},OnGround:1b}
 scoreboard players set @e[type=Item] CPXCCraft 13 {Item:{id:"minecraft:dye",Damage:11s,Count:4b},OnGround:1b}
 scoreboard players set @e[type=Item] CPXCCraft 14 {Item:{id:"minecraft:nether_star",Count:1b},OnGround:1b}
-scoreboard players set @e[type=Item] CPXCCraft 15 {Item:{id:"minecraft:golden_apple",Count:1b},OnGround:1b}
-scoreboard players set @e[type=Item] CPXCCraft 16 {Item:{id:"minecraft:dye",Damage:11s,Count:1b,tag:{yellow_heart:1b}},OnGround:1b}
+scoreboard players set @e[type=Item] CPXCCraft 15 {Item:{id:"minecraft:dye",Damage:11s,Count:1b,tag:{yellow_heart:1b}},OnGround:1b}
 
 execute @e[type=Item,score_CPXCCraft_min=1,score_CPXCCraft=1] ~ ~ ~ execute @e[type=Item,score_CPXCCraft_min=2,score_CPXCCraft=2,r=1] ~ ~ ~ summon Item ~ ~3 ~ {Item:{id:"minecraft:iron_ingot",Count:1b,tag:{display:{Name:"Empty Canister",Lore:["Used to make heart canisters"]},ench:[],HideFlages:63b,empty_canister:1b}}}
 
