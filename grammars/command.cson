@@ -1,0 +1,14 @@
+'fileTypes': [
+  'comm'
+  'com'
+  'command'
+]
+'name': 'Command'
+'patterns': [
+  {
+    'name': 'comment.line.number-sign'
+    'begin': '#'
+    'end': '$'
+  }
+]
+'scopeName': 'source.command'
