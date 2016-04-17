@@ -18,13 +18,6 @@
         'name': 'constant.language'
         'begin': '\\@[apre]\\['
         'end': '\\]'
-        'patterns': [
-            {
-                'name': 'keyword.control'
-                'begin': 'score'
-                'end': 'min'
-            }
-        ]
     }
     {
         'name': 'variable.other'
