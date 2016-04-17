@@ -224,7 +224,27 @@
     }
     {
         'name': 'keyword.other'
-        'match': 'pardon-ip'
+        'match': 'tp'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'trigger'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'weather'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'whitelist'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'worldborder'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'xp'
     }
 ]
 'scopeName': 'source.command'
