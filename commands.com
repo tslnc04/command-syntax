@@ -55,11 +55,11 @@ scoreboard players tag @a add CPXCRedCanisterThree {Inventory:[{id:"minecraft:dy
 scoreboard players tag @a add CPXCRedCanisterFour {Inventory:[{id:"minecraft:dye",Damage:1s,Count:4b,tag:{red_heart_canister:1b}}]}
 scoreboard players tag @a add CPXCRedCanisterFive {Inventory:[{id:"minecraft:dye",Damage:1s,Count:5b,tag:{red_heart_canister:1b}}]}
 
-scoreboard players tag @a add CPXCYellowCanisterOne {Inventory:[{id:"minecraft:dye",Damage:11s,Count:1b,tag:{yellow_heart_canister:1b}}]}
-scoreboard players tag @a add CPXCYellowCanisterTwo {Inventory:[{id:"minecraft:dye",Damage:11s,Count:2b,tag:{yellow_heart_canister:1b}}]}
-scoreboard players tag @a add CPXCYellowCanisterThree {Inventory:[{id:"minecraft:dye",Damage:11s,Count:3b,tag:{yellow_heart_canister:1b}}]}
-scoreboard players tag @a add CPXCYellowCanisterFour {Inventory:[{id:"minecraft:dye",Damage:11s,Count:4b,tag:{yellow_heart_canister:1b}}]}
-scoreboard players tag @a add CPXCYellowCanisterFive {Inventory:[{id:"minecraft:dye",Damage:11s,Count:5b,tag:{yellow_heart_canister:1b}}]}
+scoreboard players tag @a add CPXCYellowCanisterOne {Inventory:[{id:"minecraft:dye",Damage:1s,Count:5b,tag:{red_heart_canister:1b}},{id:"minecraft:dye",Damage:11s,Count:1b,tag:{yellow_heart_canister:1b}}]}
+scoreboard players tag @a add CPXCYellowCanisterTwo {Inventory:[{id:"minecraft:dye",Damage:1s,Count:5b,tag:{red_heart_canister:1b}},{id:"minecraft:dye",Damage:11s,Count:2b,tag:{yellow_heart_canister:1b}}]}
+scoreboard players tag @a add CPXCYellowCanisterThree {Inventory:[{id:"minecraft:dye",Damage:1s,Count:5b,tag:{red_heart_canister:1b}},{id:"minecraft:dye",Damage:11s,Count:3b,tag:{yellow_heart_canister:1b}}]}
+scoreboard players tag @a add CPXCYellowCanisterFour {Inventory:[{id:"minecraft:dye",Damage:1s,Count:5b,tag:{red_heart_canister:1b}},{id:"minecraft:dye",Damage:11s,Count:4b,tag:{yellow_heart_canister:1b}}]}
+scoreboard players tag @a add CPXCYellowCanisterFive {Inventory:[{id:"minecraft:dye",Damage:1s,Count:5b,tag:{red_heart_canister:1b}},{id:"minecraft:dye",Damage:11s,Count:5b,tag:{yellow_heart_canister:1b}}]}
 
 effect @a[tag=CPXCRedCanisterOne] minecraft:absorption 1 0 true
 effect @a[tag=CPXCRedCanisterTwo] minecraft:absorption 1 1 true
