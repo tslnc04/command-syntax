@@ -32,10 +32,11 @@ matches = [
 
 for match in matches:
     match = match.split(":")
+#well, it was giving me an error
     output = """
 {
     'name': 'keyword.other'
-    'match': '{}\\:?{}'
+    'match': '%s\\\:?%s'
 }
-""".format(match[0], match[1])
+""" % (match[0], match[1])
     print(output)
