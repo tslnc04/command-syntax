@@ -1,7 +1,7 @@
----= INIT =---
+# ---= INIT =--- #
 scoreboard objectives add CPXCCraft dummy
 
----= CLOCK =---
+# ---= CLOCK =--- #
 scoreboard players set @e[type=Item] CPXCCraft 1 {Item:{id:"minecraft:iron_ingot",Count:4b},OnGround:1b}
 scoreboard players set @e[type=Item] CPXCCraft 2 {Item:{id:"minecraft:chest",Count:1b},OnGround:1b}
 scoreboard players set @e[type=Item] CPXCCraft 3 {Item:{id:"minecraft:dye",Damage:1s,Count:4b},OnGround:1b}
