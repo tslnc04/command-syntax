@@ -122,5 +122,69 @@
         'name': 'keyword.other'
         'match': 'pardon-ip'
     }
+    {
+        'name': 'keyword.other'
+        'match': 'particle'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'playsound'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'replaceitem'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'save-all'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'save-on'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'save-off'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'say'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'scoreboard'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'seed'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'setblock'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'setidletimeout'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'setworldspawn'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'spawnpoint'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'spreadplayers'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'stats'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'stop'
+    }
 ]
 'scopeName': 'source.command'
