@@ -288,6 +288,10 @@
     }
     {
         'name': 'keyword.other'
+        'match': 'objectives'
+    }
+    {
+        'name': 'keyword.other'
         'match': '(minecraft\\:)?speed'
     }
     {
