@@ -267,6 +267,10 @@
         'match': 'xp'
     }
     {
+        'name': 'support.function'
+        'match': 'detect'
+    }
+    {
         'name': 'keyword.other'
         'match': 'players'
     }
