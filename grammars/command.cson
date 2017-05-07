@@ -6,10 +6,6 @@
 'name': 'Command'
 'patterns': [
     {
-        'name': 'support.function'
-        'match': 'hello'
-    }
-    {
         'name': 'comment.line.number-sign'
         'begin': '#'
         'end': '$'
@@ -20,7 +16,7 @@
     }
     {
         'name': 'constant.language'
-        'match': '\\@[apre](\\[.*?\\])?'
+        'match': '\\@[apres](\\[.*?\\])?'
     }
     {
         'name': 'string.quoted.double'
@@ -36,15 +32,7 @@
     }
     {
         'name': 'support.function'
-        'match': 'achievement'
-    }
-    {
-        'name': 'support.function'
-        'match': 'ban'
-    }
-    {
-        'name': 'support.function'
-        'match': 'ban-ip'
+        'match': 'advancement'
     }
     {
         'name': 'support.function'
@@ -64,15 +52,7 @@
     }
     {
         'name': 'support.function'
-        'match': 'debug'
-    }
-    {
-        'name': 'support.function'
         'match': 'defaultgamemode'
-    }
-    {
-        'name': 'support.function'
-        'match': 'deop'
     }
     {
         'name': 'support.function'
@@ -112,35 +92,7 @@
     }
     {
         'name': 'support.function'
-        'match': 'help'
-    }
-    {
-        'name': 'support.function'
-        'match': 'kick'
-    }
-    {
-        'name': 'support.function'
         'match': 'kill'
-    }
-    {
-        'name': 'support.function'
-        'match': 'list'
-    }
-    {
-        'name': 'support.function'
-        'match': 'me'
-    }
-    {
-        'name': 'support.function'
-        'match': 'op'
-    }
-    {
-        'name': 'support.function'
-        'match': 'pardon'
-    }
-    {
-        'name': 'support.function'
-        'match': 'pardon-ip'
     }
     {
         'name': 'support.function'
@@ -220,7 +172,7 @@
     }
     {
         'name': 'support.function'
-        'match': 'testfor'
+        'match': 'testforblocks'
     }
     {
         'name': 'support.function'
@@ -228,7 +180,7 @@
     }
     {
         'name': 'support.function'
-        'match': 'testforblocks'
+        'match': 'testfor'
     }
     {
         'name': 'support.function'
@@ -248,15 +200,15 @@
     }
     {
         'name': 'support.function'
+        'match': 'teleport'
+    }
+    {
+        'name': 'support.function'
         'match': 'trigger'
     }
     {
         'name': 'support.function'
         'match': 'weather'
-    }
-    {
-        'name': 'support.function'
-        'match': 'whitelist'
     }
     {
         'name': 'support.function'
@@ -293,6 +245,18 @@
     {
         'name': 'keyword.other'
         'match': 'objectives'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'teams'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'entity'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'block'
     }
     {
         'name': 'keyword.other'
