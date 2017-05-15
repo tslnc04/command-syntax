@@ -17,7 +17,7 @@
     }
     {
         'name': 'constant.language'
-        'match': '\\@[apre](\\[.*?\\])?'
+        'match': '\\@[apres](\\[.*?\\])?'
     }
     {
         'name': 'string.quoted.double'
@@ -306,6 +306,10 @@
     {
         'name': 'keyword.other'
         'match': 'objectives'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'block'
     }
     {
         'name': 'keyword.other'
