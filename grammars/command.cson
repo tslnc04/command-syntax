@@ -7,10 +7,6 @@
 'name': 'Command'
 'patterns': [
     {
-        'name': 'support.function'
-        'match': 'hello'
-    }
-    {
         'name': 'comment.line.number-sign'
         'begin': '#'
         'end': '$'
@@ -37,7 +33,7 @@
     }
     {
         'name': 'support.function'
-        'match': 'achievement'
+        'match': 'advancement'
     }
     {
         'name': 'support.function'
@@ -225,6 +221,10 @@
     }
     {
         'name': 'support.function'
+        'match': 'teleport'
+    }
+    {
+        'name': 'support.function'
         'match': 'tell'
     }
     {
@@ -306,6 +306,14 @@
     {
         'name': 'keyword.other'
         'match': 'objectives'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'entity'
+    }
+    {
+        'name': 'keyword.other'
+        'match': 'teams'
     }
     {
         'name': 'keyword.other'
